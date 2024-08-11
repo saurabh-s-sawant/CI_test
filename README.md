@@ -1,2 +1,2 @@
 # CI_test
-Repo to test CI with GitHub Actions
+Repo to test GitHub Actions CI
